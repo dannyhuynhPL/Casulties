@@ -16,7 +16,8 @@ namespace Casulties.GameInterface
         private Panel titleScreen = new Panel();
 
         /// <summary>
-        /// Creates a TitleScreen object
+        /// Creates a TitleScreen object that will represent
+        /// the title screen for this game
         /// </summary>
         /// <param name="GameClient">GameClient form</param>
         internal TitleScreen(Form GameClient)
@@ -65,6 +66,16 @@ namespace Casulties.GameInterface
             ((Button)titleScreen.Controls.Find("Quit", false)[0]).BringToFront();
 
             GameClient.Controls.Add(titleScreen);
+        }
+
+        internal void Play(Form GameClient)
+        {
+            //
+        }
+
+        private void TitleScreenPanel(Form GameClient)
+        {
+            //
         }
     }
 }
