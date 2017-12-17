@@ -63,6 +63,7 @@
     <Compile Include="Classes\Component\LocalDBConnector.cs" />
     <Compile Include="Classes\GameObjects\TroopObject.cs" />
     <Compile Include="Classes\Objects\Troop.cs" />
+    <Compile Include="Game.cs" />
     <Compile Include="GameClient.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,6 +71,7 @@
       <DependentUpon>GameClient.cs</DependentUpon>
     </Compile>
     <Compile Include="GameDatabase\LocalDB.cs" />
+    <Compile Include="GameInterface\TitleScreen.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestClass.cs" />

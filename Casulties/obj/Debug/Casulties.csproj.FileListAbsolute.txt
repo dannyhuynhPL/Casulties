@@ -10,3 +10,14 @@ C:\Users\Danny\source\repos\Casulties\Casulties\obj\Debug\Casulties.csproj.CoreC
 C:\Users\Danny\source\repos\Casulties\Casulties\obj\Debug\Casulties.exe
 C:\Users\Danny\source\repos\Casulties\Casulties\obj\Debug\Casulties.pdb
 C:\Users\Danny\source\repos\Casulties\Casulties\obj\Debug\Casulties.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Source\Repos\Casulties\Casulties\bin\Debug\GameDatabase\Database.mdf
+C:\Users\Dani\Source\Repos\Casulties\Casulties\bin\Debug\GameDatabase\Database_log.ldf
+C:\Users\Dani\Source\Repos\Casulties\Casulties\bin\Debug\Casulties.exe.config
+C:\Users\Dani\Source\Repos\Casulties\Casulties\bin\Debug\Casulties.exe
+C:\Users\Dani\Source\Repos\Casulties\Casulties\bin\Debug\Casulties.pdb
+C:\Users\Dani\Source\Repos\Casulties\Casulties\obj\Debug\Casulties.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Source\Repos\Casulties\Casulties\obj\Debug\Casulties.GameClient.resources
+C:\Users\Dani\Source\Repos\Casulties\Casulties\obj\Debug\Casulties.Properties.Resources.resources
+C:\Users\Dani\Source\Repos\Casulties\Casulties\obj\Debug\Casulties.csproj.GenerateResource.Cache
+C:\Users\Dani\Source\Repos\Casulties\Casulties\obj\Debug\Casulties.exe
+C:\Users\Dani\Source\Repos\Casulties\Casulties\obj\Debug\Casulties.pdb
