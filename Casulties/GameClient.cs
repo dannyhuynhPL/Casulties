@@ -18,7 +18,7 @@ namespace Casulties
 
             TestClass.ExportTroopDataTest();
 
-            // Test commit
+            Game Game = new Game(this);
         }
     }
 }
